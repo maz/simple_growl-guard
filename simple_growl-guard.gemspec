@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ma.mazmaz@gmail.com"]
   spec.description   = %q{SimpleGrowl integration with guard}
   spec.summary       = %q{This gem provides simple_growl integration with guard. It is terribly hack-ish and should probably be avoided in production environments.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/maz/simple_growl-guard"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
